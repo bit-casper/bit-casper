@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caf9
 - 👀 I’m interested in networking, coding, websites, servers and webhosting.
 - 🌱 I’m currently learning Python, Django and Docker.
-- 💞️ I’m looking to collaborate on webhosting and business.
+- 💞️ I’m looking to collaborate on webhosting, webapps and business.
 - 📫 How to reach me casper_frost@outlook.com
 
 <!---
