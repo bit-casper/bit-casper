@@ -1,4 +1,4 @@
-# Hi, I’m Casper <br>
+# Hi, I’m Casper
 Find me on [LinkTree](https://linktr.ee/bit_casper)
 
 <!---
