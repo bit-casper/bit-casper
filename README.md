@@ -1,5 +1,5 @@
 # Hi, I’m Casper
-I'm building Mosquitos. And other stuff.
+Co-Founder of Operation Safe Place. Founder of Mosquitos.
 </br></br>
 Find me on [LinkTree](https://linktr.ee/bit_casper)
 
