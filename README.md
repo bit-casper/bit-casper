@@ -1,5 +1,5 @@
 # Hi, I’m Casper
-</br></br>
+
 Find me on [LinkTree](https://linktr.ee/bit_casper)
 
 <!---
