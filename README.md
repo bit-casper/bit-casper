@@ -1,5 +1,4 @@
 # Hi, I’m Casper
-Co-Founder of Operation Safe Place. Founder of Mosquitos.
 </br></br>
 Find me on [LinkTree](https://linktr.ee/bit_casper)
 
